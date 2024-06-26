@@ -1,1 +1,1 @@
-This is a  simple shop website for the samke of learning
+This is a  simple shop website for the sake of learning
